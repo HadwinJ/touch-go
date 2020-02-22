@@ -9,3 +9,4 @@ golang.org/pkg/sync
 sync.WaitGroup
 
 # Mutexes
+go run --race . // detect the race condition
