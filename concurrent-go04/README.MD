@@ -14,3 +14,8 @@ ch := make(chan int) // created channels are always bidirectional
 func myFunction(ch chan int) {...}  // bidirectional channel
 func myFunction(ch chan<- int) {...}  // send-only channel
 func myFunction(ch <-chan int) {...}  // receive-only channel
+
+# Control Flow
+If statements
+For loops
+Select statements
