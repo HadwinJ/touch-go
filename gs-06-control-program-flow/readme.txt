@@ -1,3 +1,3 @@
-Loop till condition
-Infinite Loop
-Looping over collection
+
+# Init module
+go mod init hadwin.com/hello
