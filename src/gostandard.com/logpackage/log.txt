@@ -1,0 +1,8 @@
+INFO: 2020/11/01 11:43:10 demo2_secondlog.go:38: this is an information message!
+WARNING: 2020/11/01 11:43:10 demo2_secondlog.go:39: this is a warning
+ERROR: 2020/11/01 11:43:10 demo2_secondlog.go:40: this is an error
+FATAL: 2020/11/01 11:43:10 demo2_secondlog.go:41: we crash!
+INFO: 03:44:58 demo2_secondlog.go:38: UTC - an information message!
+WARNING: 03:44:58 demo2_secondlog.go:39: UTC - a warning
+ERROR: 03:44:58 demo2_secondlog.go:40: UTC - an error
+FATAL: 03:44:58 demo2_secondlog.go:41: we crash!
